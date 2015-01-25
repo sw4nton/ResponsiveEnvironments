@@ -1,6 +1,5 @@
 #include <FastLED.h>
 #include <NewPing.h>
-
 #define NUM_LEDS 60
 #define DATA_PIN 6
 #define TRIGGER_PIN  11 
